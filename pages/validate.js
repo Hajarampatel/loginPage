@@ -14,14 +14,14 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
         
-        <img className={styles.logo} src="logo.svg" alt="" />
+        <img className={styles.logo} src="Logo.svg" alt="" />
       <main className={styles.main}>
         <h1 className={styles.title}> </h1>
             
         <div className={styles.grid}>
           <div className={styles.card}>
             <h1 >Enter the verification code to continue </h1>
-              <p className={styles.verp}>We sent to <a href=""> hajaram@gmail.com</a>. If you don't see it, check your spam</p>
+              <p className={styles.verp}>We sent to <a href=""> hajaram@gmail.com</a>. If you do not see it, check your spam</p>
               <div className={styles.boxmain}>
                  <input  type="number" max="9" Min="0" step="1" className={styles.box}/>
                  <input  type="number" max="9" Min="0" step="1" className={styles.box}/>
@@ -44,7 +44,7 @@ export default function Home() {
              <img src="/image.svg" alt="" className={styles.img} />
             <h6>NEW</h6>
               <h4>Developer handoff improvements</h4>
-              <p>You’ll now see a highlight around Symbols on the Canvas and in the Inspector.</p>
+              <p>You will now see a highlight around Symbols on the Canvas and in the Inspector.</p>
             </div>
           </div>
 
