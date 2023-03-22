@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
         
-        <img className={styles.logo} src="logo.svg" alt="" />
+        <img className={styles.logo} src="Logo.svg" alt="" />
         <main className={styles.main}>
         <h1 className={styles.title}> </h1>
             
@@ -31,7 +31,7 @@ export default function Home() {
              <img src="/image.svg" alt="" className={styles.img} />
             <h6>NEW</h6>
               <h4>Developer handoff improvements</h4>
-              <p>You’ll now see a highlight around Symbols on the Canvas and in the Inspector.</p>
+              <p>You will now see a highlight around Symbols on the Canvas and in the Inspector.</p>
             </div>
           </div>
 
