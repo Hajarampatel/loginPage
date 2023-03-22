@@ -8,7 +8,7 @@ export default function Home() {
 
         <div className={styles.grid}>
            <div className={styles.card}>
-        <img className={styles.logosuccess} src="logo.svg" alt="" />
+        <img className={styles.logosuccess} src="Logo.svg" alt="" />
          <h3 className={styles.success}>Success!</h3>
            
            </div> 
